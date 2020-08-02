@@ -1,4 +1,4 @@
 ### Heylo there 👋
 
-<img src="media/dino.gif">
+<img src="https://github.com/rahulsunil2/rahulsunil2/blob/master/media/dino.gif">
 
