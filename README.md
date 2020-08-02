@@ -1,4 +1,4 @@
-### Hi there 👋
+### Heylo there 👋
 
-- 🔭 I’m currently working on smarTangle
-- 🌱 I’m currently learning Django
+<img src="media/dino.gif">
+
