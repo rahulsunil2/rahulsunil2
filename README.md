@@ -2,8 +2,6 @@
 
 ### Hola! 👋
 
-#### I'm Rahul
-
 ![](https://komarev.com/ghpvc/?username=rahulsunil2&color=010040&style=flat-square)
  
 ![](https://img.shields.io/badge/Web%20App%20Developer-Django-red?style=for-the-badge&logo=appveyor)
