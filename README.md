@@ -4,11 +4,9 @@
 
 ![](https://komarev.com/ghpvc/?username=rahulsunil2&color=010040&style=flat-square)
  
-![](https://img.shields.io/badge/Web%20App%20Developer-Django-red?style=for-the-badge&logo=appveyor)
-
-![](https://img.shields.io/badge/Deep%20Learning-TensorFlow-blueviolet?style=for-the-badge&logo=appveyor)
-
-![](https://img.shields.io/badge/Mobile%20App%20Developer-Flutter-yellowgreen?style=for-the-badge&logo=appveyor)
+<img src='https://img.shields.io/badge/Web%20App%20Developer-Django-103E2E?style=for-the-badge&logo=appveyor'> 
+<img src='https://img.shields.io/badge/AI%20Enthusiast-TensorFlow-ED8E24?style=for-the-badge&logo=appveyor'>
+<img src='https://img.shields.io/badge/Mobile%20App%20Developer-Flutter-02569B?style=for-the-badge&logo=appveyor'> 
 
  
 ## Projects
