@@ -12,33 +12,52 @@
 
  
 ## Projects
-
-<details><summary><b>smarTangle</b></summary>
+<h3> smarTangle </h3>
+<details><summary><i>Tangle based Warehouse Management Software</i></summary>
 <p>
+ 
+<img src='https://img.shields.io/badge/Web%20App%20Developer-Django-103E2E?style=for-the-badge&logo=appveyor'> <img src='https://img.shields.io/badge/Machine%20Learning-FBProphet-073265?style=for-the-badge&logo=appveyor'> <img src='https://img.shields.io/badge/Mobile%20App%20Developer-Flutter-02569B?style=for-the-badge&logo=appveyor'> <img src='https://img.shields.io/badge/IOTA%20Network-Tangle-010101?style=for-the-badge&logo=appveyor'>
+
 <img src='https://github.com/rahulsunil2/rahulsunil2/blob/master/media/smartangle.png' width=800px>
 <img src='https://github.com/rahulsunil2/rahulsunil2/blob/master/media/Web - Landing.png' width=800px>
 </p>
 </details>
 
-<details><summary><b>BitMedi</b></summary>
+### BitMedi
+<details><summary><i>Mobile App for keeping all your medical records</i></summary>
 <p>
+ <img src='https://img.shields.io/badge/Web%20App%20Developer-Django-103E2E?style=for-the-badge&logo=appveyor'> <img src='https://img.shields.io/badge/OCR%20Reading-Tesseract-FF5B56?style=for-the-badge&logo=appveyor'> <img src='https://img.shields.io/badge/Mobile%20App%20Developer-Flutter-02569B?style=for-the-badge&logo=appveyor'>
+ 
 <img src='https://github.com/rahulsunil2/rahulsunil2/blob/master/media/BitMedi_poster.png' width=800px>
 <img src='https://github.com/rahulsunil2/rahulsunil2/blob/master/media/BitMedi UI.png' width=800px>
 </p>
 </details>
 
-<details><summary><b>Treasure Hunt</b></summary>
+### Treasure Hunt
+<details><summary><i>AI based Treasure Hunt Game</i></summary>
 <p>
+<img src='https://img.shields.io/badge/Mobile%20App%20Developer-Flutter-02569B?style=for-the-badge&logo=appveyor'> <img src='https://img.shields.io/badge/Deep%20Learning-TensorFlow-ED8E24?style=for-the-badge&logo=appveyor'>
+ 
 <img src='https://github.com/rahulsunil2/rahulsunil2/blob/master/media/htne_start.gif' width=800px>
 <img src='https://github.com/rahulsunil2/rahulsunil2/blob/master/media/htne_end.gif' width=800px>
 </p>
 </details>
 
-
-<details><summary><b><i>Some more...</i></b></summary>
+### Agrivision
+<details><summary><i>AI Model for detecting early stage crop failure</i></summary>
 <p>
-<img src='https://github.com/rahulsunil2/rahulsunil2/blob/master/media/agrivision.png' width=400px> <img src='https://github.com/rahulsunil2/rahulsunil2/blob/master/media/abcBank.png' width=400px>
-<img src='https://github.com/rahulsunil2/rahulsunil2/blob/master/media/CuraZon.png' width=400px> <img src='https://github.com/rahulsunil2/rahulsunil2/blob/master/media/defense.png' width=400px>
+ <img src='https://img.shields.io/badge/Deep%20Learning-TensorFlow-ED8E24?style=for-the-badge&logo=appveyor'>
+ 
+<img src='https://github.com/rahulsunil2/rahulsunil2/blob/master/media/agrivision.png' width=800px>
+</p>
+</details>
+
+
+## Some more...
+<details><summary><b><i>Some of my mini projects.</i></b></summary>
+<p>
+<img src='https://github.com/rahulsunil2/rahulsunil2/blob/master/media/abcBank.png' width=300px>
+<img src='https://github.com/rahulsunil2/rahulsunil2/blob/master/media/CuraZon.png' width=300px> <img src='https://github.com/rahulsunil2/rahulsunil2/blob/master/media/defense.png' width=300px>
 </p>
 </details>
 
