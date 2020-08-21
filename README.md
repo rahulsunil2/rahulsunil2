@@ -54,8 +54,8 @@
 ## Some more...
 <details><summary><b><i>Some of my mini projects.</i></b></summary>
 <p>
-<img src='https://github.com/rahulsunil2/rahulsunil2/blob/master/media/abcBank.png' width=300px>
-<img src='https://github.com/rahulsunil2/rahulsunil2/blob/master/media/CuraZon.png' width=300px> <img src='https://github.com/rahulsunil2/rahulsunil2/blob/master/media/defense.png' width=300px>
+<img src='https://github.com/rahulsunil2/rahulsunil2/blob/master/media/abcBank.png' height=250px>
+<img src='https://github.com/rahulsunil2/rahulsunil2/blob/master/media/CuraZon.png' height=250px> <img src='https://github.com/rahulsunil2/rahulsunil2/blob/master/media/defense.png' height=250px>
 </p>
 </details>
 
