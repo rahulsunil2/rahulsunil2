@@ -1,7 +1,7 @@
+<img align="right" src="https://github.com/rahulsunil2/rahulsunil2/blob/master/media/computerProgrammer.gif">
+
 ### Heylo there 👋
 ![](https://komarev.com/ghpvc/?username=rahulsunil2&color=010040&style=flat-square)
-
-<img align="right" src="https://github.com/rahulsunil2/rahulsunil2/blob/master/media/computerProgrammer.gif">
  
 ![](https://img.shields.io/badge/Web%20App%20Developer-Django-red?style=for-the-badge&logo=appveyor)
 
