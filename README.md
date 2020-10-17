@@ -10,7 +10,7 @@
 
  
 ## Projects
-<h3> smarTangle </h3>
+[<h3> smarTangle </h3>]("https://youtu.be/RXRktCTKABk")
 <details><summary><i>Tangle based Warehouse Management Software</i></summary>
 <p>
  
