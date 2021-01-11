@@ -1,6 +1,10 @@
+<p align="center">
+    <img src="https://github.com/rahulsunil2/rahulsunil2/blob/master/media/hello.gif">
+</p>
+
 <img align="right" src="https://github.com/rahulsunil2/rahulsunil2/blob/master/media/computerProgrammer.gif">
 
-# Hola Amigos! 👋
+# Welcome to my GitHub Profile
 
 ![](https://komarev.com/ghpvc/?username=rahulsunil2&color=010040&style=flat-square)
  
@@ -54,7 +58,7 @@
 ### Agrivision
 <details><summary><i>AI Model for detecting early stage crop failure</i></summary>
 <p>
- <img src='https://img.shields.io/badge/Deep%20Learning-TensorFlow-ED8E24?style=for-the-badge&logo=tensorflow&logoColor=white'>
+    <img src='https://img.shields.io/badge/Deep%20Learning-TensorFlow-ED8E24?style=for-the-badge&logo=tensorflow&logoColor=white'>
  
 <img src='https://github.com/rahulsunil2/rahulsunil2/blob/master/media/agrivision.png' width=800px>
 </p>
@@ -70,8 +74,8 @@
 </details>
 
 <p align="center" >
-  <img src="https://github-readme-stats.vercel.app/api?username=rahulsunil2&show_icons=true&hide=stars,prs,issues,contribs&include_all_commits=true&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
+    <img src="https://github-readme-stats.vercel.app/api?username=rahulsunil2&show_icons=true&hide=stars,prs,issues,contribs&include_all_commits=true&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
 </p>
 <p align="center" >
- <img src="https://github.com/rahulsunil2/rahulsunil2/blob/master/media/wave.gif">
+    <img src="https://github.com/rahulsunil2/rahulsunil2/blob/master/media/wave.gif">
 </p>
