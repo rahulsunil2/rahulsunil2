@@ -72,5 +72,6 @@
 <p align="center" >
   <img src="https://github-readme-stats.vercel.app/api?username=rahulsunil2&show_icons=true&hide=stars,prs,issues,contribs&include_all_commits=true&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
 </p>
-
-<img src="https://github.com/rahulsunil2/rahulsunil2/blob/master/media/dino.gif">
+<p align="center" >
+ <img src="https://github.com/rahulsunil2/rahulsunil2/blob/master/media/wave.gif">
+</p>
