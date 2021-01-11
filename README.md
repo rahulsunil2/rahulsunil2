@@ -21,6 +21,16 @@
 </p>
 </details>
 
+[<h3> Bank Easy </h3>]("https://youtu.be/PvgbTnNox_k")
+<details><summary><i>Contactless Banking Solution</i></summary>
+<p>
+ 
+<img src='https://img.shields.io/badge/Mobile%20App%20Developer-Flutter-02569B?style=for-the-badge&logo=flutter'> <img src='https://img.shields.io/badge/IOTA%20Network-Tangle-010101?style=for-the-badge&logo=ethereum'>
+
+<img src='https://github.com/kesiajo/BankEasy/blob/main/images/BankEasy_2.gif' width=800px>
+</p>
+</details>
+
 ### BitMedi
 <details><summary><i>Mobile App for keeping all your medical records</i></summary>
 <p>
