@@ -73,8 +73,11 @@
 </p>
 </details>
 
-<p align="center" >
-    <img src="https://github-readme-stats.vercel.app/api?username=rahulsunil2&show_icons=true&hide=stars,prs,issues,contribs&include_all_commits=true&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
+<p align="center">
+<a href="https://github.com/kesiajo">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rahulsunil2&theme=jolly&include_all_commits=true&show_icons=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulsunil2&theme=radical&layout=compact"/>
+</a>
 </p>
 <p align="center" >
     <img src="https://github.com/rahulsunil2/rahulsunil2/blob/master/media/wave.gif">
