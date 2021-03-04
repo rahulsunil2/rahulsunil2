@@ -75,8 +75,8 @@
 
 <p align="center">
 <a href="https://github.com/rahulsunil2">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rahulsunil2&theme=jolly&include_all_commits=true&show_icons=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulsunil2&theme=radical&layout=compact"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rahulsunil2&theme=jolly&include_all_commits=true&show_icons=true&count_private=true&bg_color=43,4158D0,C850C0,FFCC70&title_color=fff"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulsunil2&theme=radical&layout=compact&bg_color=43,4158D0,C850C0,FFCC70&title_color=fff"/>
 </a>
 </p>
 <p align="center" >
