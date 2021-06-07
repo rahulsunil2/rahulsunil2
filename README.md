@@ -81,9 +81,11 @@
     <img src="https://github-profile-trophy.vercel.app/?username=rahulsunil2&theme=onedark&no-frame=true&no-bg=true"/>
 </a>
 </p>
+
 ### Weekly Development 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
+
 <p align="center" >
     <img src="https://github.com/rahulsunil2/rahulsunil2/blob/master/media/wave.gif">
 </p>
