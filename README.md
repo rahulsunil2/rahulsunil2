@@ -13,7 +13,7 @@
 <img src='https://img.shields.io/badge/Mobile%20App%20Developer-Flutter-02569B?style=for-the-badge&logo=flutter'> 
 
  
-## Projects
+<!-- ## Projects
 [<h3> smarTangle </h3>]("https://youtu.be/RXRktCTKABk")
 <details><summary><i>Tangle based Warehouse Management Software</i></summary>
 <p>
@@ -80,9 +80,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulsunil2&theme=radical&layout=compact&bg_color=43,4158D0,C850C0,FFCC70&title_color=fff"/>
     <img src="https://github-profile-trophy.vercel.app/?username=rahulsunil2&theme=onedark&no-frame=true&no-bg=true"/>
 </a>
-</p>
+</p> -->
 
-### Weekly Development 
+### Stats 
 <!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.5%20million%20lines%20of%20code-blue)
 
