@@ -12,12 +12,14 @@
 <img src='https://img.shields.io/badge/AI%20Enthusiast-TensorFlow-ED8E24?style=for-the-badge&logo=tensorflow&logoColor=white'>
 <img src='https://img.shields.io/badge/Mobile%20App%20Developer-Flutter-02569B?style=for-the-badge&logo=flutter'> 
 
+***
+
 <p align="center">
     <img src="https://activity-graph.herokuapp.com/graph?username=rahulsunil2&theme=github&hide_border=true"/>
 <a href="https://github.com/rahulsunil2">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rahulsunil2&theme=dracula&show_icons=true&count_private=true&hide_border=true />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulsunil2&theme=dracula&layout=compact&hide_border=true />
-    <img src="https://github-profile-trophy.vercel.app/?username=rahulsunil2&theme=onedark&no-frame=true&no-bg=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rahulsunil2&theme=dracula&show_icons=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulsunil2&theme=dracula&layout=compact&hide_border=true&langs_count=8"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=rahulsunil2&theme=onedark&no-frame=true&no-bg=true"/>
 </a>
 </p>
 
