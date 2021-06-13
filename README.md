@@ -15,11 +15,11 @@
 ***
 
 <p align="center">
-    <img src="https://activity-graph.herokuapp.com/graph?username=rahulsunil2&theme=github&hide_border=true"/>
+    <img width="98%" src="https://activity-graph.herokuapp.com/graph?username=rahulsunil2&theme=github&hide_border=true"/>
 <a href="https://github.com/rahulsunil2">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rahulsunil2&theme=dracula&show_icons=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulsunil2&theme=dracula&layout=compact&hide_border=true&langs_count=8"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=rahulsunil2&theme=onedark&no-frame=true&no-bg=true"/>
+    <img width="49%" height="180em" src="https://github-readme-stats.vercel.app/api?username=rahulsunil2&theme=dracula&show_icons=true&count_private=true&hide_border=true"/>
+    <img width="49%" height="180em" src="http://github-readme-streak-stats.herokuapp.com?user=rahulsunil2&theme=onedark&hide_border=true"/>
+    <img width="98%" src="https://github-profile-trophy.vercel.app/?username=rahulsunil2&theme=onedark&no-frame=true&no-bg=true"/>
 </a>
 </p>
 
