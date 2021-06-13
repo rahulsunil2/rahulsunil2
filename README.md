@@ -9,8 +9,8 @@
 ![](https://komarev.com/ghpvc/?username=rahulsunil2&color=010040&style=flat-square)
  
 <img src='https://img.shields.io/badge/Full%20Stack%20Developer-Django-103E2E?style=for-the-badge&logo=django'> 
-<img src='https://img.shields.io/badge/AI%20Enthusiast-TensorFlow-ED8E24?style=for-the-badge&logo=tensorflow&logoColor=white'>
 <img src='https://img.shields.io/badge/Mobile%20App%20Developer-Flutter-02569B?style=for-the-badge&logo=flutter'> 
+<img src='https://img.shields.io/badge/AI%20Enthusiast-TensorFlow-ED8E24?style=for-the-badge&logo=tensorflow&logoColor=white'>
 
 ***
 
