@@ -2,7 +2,7 @@
     <img src="https://github.com/rahulsunil2/rahulsunil2/blob/master/media/hello.gif">
 </p> -->
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&color=F7F7F7&size=46&center=true&vCenter=true&width=800&lines=Hola!+I'm+Rahul+Sunil;Welcome+to+my+GitHub+Profile"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&color=F7F7F7&size=46&vCenter=true&width=800&lines=>+Hola!+I'm+Rahul+Sunil;>+Welcome+to+my+GitHub+Profile"/>
     <img src='https://img.shields.io/badge/Full%20Stack%20Developer-Django-103E2E?style=for-the-badge&logo=django'/> 
     <img src='https://img.shields.io/badge/Mobile%20App%20Developer-Flutter-02569B?style=for-the-badge&logo=flutter'/> 
     <img src='https://img.shields.io/badge/AI%20Enthusiast-TensorFlow-ED8E24?style=for-the-badge&logo=tensorflow&logoColor=white'/>
