@@ -30,15 +30,15 @@
 
 ### Stats 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.8%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.6%20million%20lines%20of%20code-blue)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    252 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.54% 
-🌆 Daytime    368 commits    ██████░░░░░░░░░░░░░░░░░░░   27.08% 
-🌃 Evening    344 commits    ██████░░░░░░░░░░░░░░░░░░░   25.31% 
-🌙 Night      395 commits    ███████░░░░░░░░░░░░░░░░░░   29.07%
+🌞 Morning    252 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.41% 
+🌆 Daytime    378 commits    ███████░░░░░░░░░░░░░░░░░░   27.61% 
+🌃 Evening    344 commits    ██████░░░░░░░░░░░░░░░░░░░   25.13% 
+🌙 Night      395 commits    ███████░░░░░░░░░░░░░░░░░░   28.85%
 
 ```
 
@@ -83,7 +83,7 @@ C                        3 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/rahulsunil2/rahulsunil2/master/charts/bar_graph.png) 
 
 
- Last Updated on 13/07/2021
+ Last Updated on 14/07/2021
 <!--END_SECTION:waka-->
 
 
