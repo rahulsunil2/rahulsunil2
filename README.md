@@ -6,24 +6,15 @@
     <img src='https://img.shields.io/badge/Full%20Stack%20Developer-Django-103E2E?style=for-the-badge&logo=django'/> 
     <img src='https://img.shields.io/badge/Mobile%20App%20Developer-Angular-02569B?style=for-the-badge&logo=angular'/> 
     <img src='https://img.shields.io/badge/AI%20Enthusiast-TensorFlow-ED8E24?style=for-the-badge&logo=tensorflow&logoColor=white'/>
-    <img src="https://github.com/rahulsunil2/rahulsunil2/blob/master/media/computerProgrammer.gif">
-    
+    <img src="https://github.com/rahulsunil2/rahulsunil2/blob/master/media/computerProgrammer.gif"> 
 </div>
-
-<!-- ![](https://komarev.com/ghpvc/?username=rahulsunil2&color=010040&style=for-the-badge) -->
-<!-- ![](https://badges.pufler.dev/years/rahulsunil2?style=for-the-badge&label=Joined%20GitHub) -->
-
-
-
-                                                
 
 ***
 
 <p align="center">
-    <img width="98%" src="https://activity-graph.herokuapp.com/graph?username=rahulsunil2&theme=github&hide_border=true"/>
-<a href="https://github.com/rahulsunil2">
-    <img width="49%" height="180em" src="https://github-readme-stats.vercel.app/api?username=rahulsunil2&theme=dracula&show_icons=true&count_private=true&hide_border=true"/>
-    <img width="49%" height="180em" src="http://github-readme-streak-stats.herokuapp.com?user=rahulsunil2&theme=onedark&hide_border=true"/>
-    <img width="98%" src="https://github-profile-trophy.vercel.app/?username=rahulsunil2&theme=onedark&no-frame=true&no-bg=true&rank=SECRET,SSS,SS,S,AAA,AA,A"/>
-</a>
+    <a href="https://github.com/rahulsunil2">
+        <img width="49%" height="180em" src="https://github-readme-stats.vercel.app/api?username=rahulsunil2&theme=dracula&show_icons=true&count_private=true&hide_border=true"/>
+        <img width="49%" height="180em" src="http://github-readme-streak-stats.herokuapp.com?user=rahulsunil2&theme=onedark&hide_border=true"/>
+        <img width="98%" src="https://github-profile-trophy.vercel.app/?username=rahulsunil2&theme=onedark&no-frame=true&no-bg=true&rank=SECRET,SSS,SS,S,AAA,AA,A"/>
+    </a>
 </p>
