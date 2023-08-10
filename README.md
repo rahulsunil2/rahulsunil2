@@ -3,8 +3,8 @@
 </p> -->
 <div align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&color=F7F7F7&size=46&vCenter=true&width=800&lines=>+Hola!+I'm+Rahul+Sunil;>+Welcome+to+my+GitHub+Profile"/>
-    <img src='https://img.shields.io/badge/Full%20Stack%20Developer-Django-103E2E?style=for-the-badge&logo=django'/> 
-    <img src='https://img.shields.io/badge/Mobile%20App%20Developer-Angular-02569B?style=for-the-badge&logo=angular'/> 
+    <img src='https://img.shields.io/badge/Backend%20Engineer-Django-103E2E?style=for-the-badge&logo=django'/> 
+    <img src='https://img.shields.io/badge/FrontEnd%20%20Developer-Angular-02569B?style=for-the-badge&logo=angular'/> 
     <img src='https://img.shields.io/badge/AI%20Enthusiast-TensorFlow-ED8E24?style=for-the-badge&logo=tensorflow&logoColor=white'/>
     <img src="https://github.com/rahulsunil2/rahulsunil2/blob/master/media/computerProgrammer.gif"> 
 </div>
