@@ -118,3 +118,13 @@ I enjoy turning **“this sounds impossible”** into **“it’s live in prod.�
 If you’re building something ambitious in GenAI,  
 we’ll get along just fine.
 
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rahulsunil2&style=for-the-badge&color=58A6FF"/>
+</p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rahulsunil2/rahulsunil2/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rahulsunil2/rahulsunil2/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/rahulsunil2/rahulsunil2/output/github-contribution-grid-snake.svg">
+</picture>
